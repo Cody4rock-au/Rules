@@ -20,7 +20,7 @@
         <h4>7. Do not use cheating software on the server - if caught it will result in a ban.</h4>
         <hr>
         <h4>8. Hate speach is not allowed - if caught it will result in a mute</h4>
-        <hr>
+        
     </body>
 
 
